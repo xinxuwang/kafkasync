@@ -7,3 +7,4 @@
 logs/*
 *.swp
 nohup.out
+example/example
